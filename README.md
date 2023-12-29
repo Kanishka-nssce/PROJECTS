@@ -8,4 +8,5 @@ Each project highlights my skills, expertise, and passion for creating innovativ
 <br><br><h3>
   Table of Contents
 </h3><br>
-1. Tic Tac Toe using min-max algorithm
+<a Href = "https://github.com/Kanishka-nssce/PROJECTS/blob/main/AI_Tic_Tac_Toe.py"> 1. Tic Tac Toe using min-max algorithm
+ </a>
